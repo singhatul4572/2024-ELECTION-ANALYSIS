@@ -27,13 +27,8 @@ Using datasets sourced from the **Election Commission of India** and **ADR (Asso
 ## 🖼️ <span style="color:#87cefa;">Dashboard Screenshots</span>
 
 ### 🔹 Overall Dashboard
-![Overall Dashboard](insert-your-screenshot-1.png)
+![Overall Dashboard](https://github.com/singhatul4572/2024-ELECTION-ANALYSIS/blob/main/dashboard_screenshot.png)
 
-### 🔹 Vote Share by Alliance
-![Vote Share](insert-your-screenshot-2.png)
-
-### 🔹 Constituency Analysis Map
-![Constituency Map](insert-your-screenshot-3.png)
 
 ---
 
