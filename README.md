@@ -1,6 +1,6 @@
 
 # 🗳️ **Power BI Dashboard on Indian Elections**
-![India Election](https://media.giphy.com/media/xT1R9ZYpGtdSgZnwre/giphy.gif)
+![India Election](https://github.com/singhatul4572/2024-ELECTION-ANALYSIS/blob/main/03.gif)
 
 ---
 
@@ -32,11 +32,6 @@ Using datasets sourced from the **Election Commission of India** and **ADR (Asso
 
 ---
 
-## 📊 <span style="color:#ffa500;">Live Walkthrough Video</span>
-
-[![Dashboard Video](https://img.youtube.com/vi/WyM6q8ZcJ4Y/0.jpg)](https://www.youtube.com/watch?v=WyM6q8ZcJ4Y)
-
----
 
 ## 📎 <span style="color:#ff69b4;">Data Sources</span>
 
@@ -71,5 +66,11 @@ This dashboard visualizes India's democratic data in an engaging and simplified 
 ## 📩 <span style="color:#ffdead;">Contact & Collaboration</span>
 
 Let’s connect if you're interested in custom dashboards, research collaboration, or sharing insights.
+
+### 🙋‍♂️ Created by: **Atul Kumar Singh**
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/singhatul4572)
+
+
 
 </div>
